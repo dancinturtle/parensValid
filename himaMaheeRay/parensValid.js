@@ -16,8 +16,8 @@ if (count==0) {
 }
 }
 
-str=')(())))'
-str1='(())'
-str2='((())'
-str3='sdre())ioi()'
-console.log(parensValid(str3));
+// str=')(())))'
+// str1='(())'
+// str2='((())'
+// str3='sdr[][{}{e())ioi()'
+// console.log(parensValid(str3));
